@@ -1,0 +1,18 @@
+body{
+    font-family: 'Spartan', sans-serif;
+    font-size: 20px;
+}
+
+.cardspad{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#card{
+    background-color: red;
+    height: 5rem;
+    width: 5rem;
+}
+
